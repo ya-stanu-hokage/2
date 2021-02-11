@@ -2,6 +2,8 @@
 
 struct A{};
 
+class B{};
+
 int main()
 {
 
