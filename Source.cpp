@@ -11,5 +11,9 @@ int main()
 
 	int a;
 
+	double b;
+
+	int c;
+
 	return 0;
 }
