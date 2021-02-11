@@ -13,5 +13,7 @@ int main()
 
 	double b;
 
+	int c;
+
 	return 0;
 }
